@@ -25,7 +25,6 @@
 - Spreadsheet
 - spss
 
-
 ## primary reasech
 - interviews
     - reqires planings
@@ -56,22 +55,10 @@
     - double slit expriment
     - planned / unplanned
     - (offsted)
-
 - research stratagi
     - 5 W's
     - time / how long it will take.
 
-
-
-
-
-
-
 - data analytics
 - biased answers
-
-- her (film 2013)
-
 - reproduceability 
-
-- 
